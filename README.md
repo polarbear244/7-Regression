@@ -1,1 +1,1 @@
-## Course 7 Regression
+## Course 7: Regression
